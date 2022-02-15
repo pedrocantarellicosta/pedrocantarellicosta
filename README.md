@@ -68,6 +68,3 @@
 <br/><br/>
 
   
-![Status](https://github-readme-stats.vercel.app/api?username=pedrocantarellicosta&show_icons=true&theme=tokyonight)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocantarellicosta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
