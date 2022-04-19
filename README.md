@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/pedrocantarellicosta/" style="margin-right: 10px;">
   <img align="left" alt="Pedro Cantarelli Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/12149142581?si=f1d5d7d958de4abf" style="margin-right: 10px;">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <hr />
 <br/>
